@@ -28,7 +28,7 @@ main{
 }
 
 .logo_wrapper{
-    background-image: url("./src/supramax_logo.svg");
+    background-image: url("./src/supramax_logo.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
